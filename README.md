@@ -49,6 +49,11 @@ Quantitative analyst and actuary with around six years building and, just as imp
 - **Football Relative-Age-Effect analysis** — 56,000+ players across 190 countries, interactive dashboard
 - **Prediction-market probabilistic modeling** (Polymarket, Kalshi) with CLV-based backtesting
 
+## Featured Repositories
+
+- **[`ifa-rag-pipeline`](https://github.com/insightfusionanalytics/ifa-rag-pipeline)** — Retrieval-augmented generation over Indian equity markets (NSE/BSE) with FinBERT sentiment scoring, FastAPI, and a vector store
+- **[`ifa-arbitrage`](https://github.com/insightfusionanalytics/ifa-arbitrage)** — Cross-platform prediction-market arbitrage engine (Polymarket × Kalshi), an 8-stage agent pipeline with vig removal and CLV backtesting
+
 ## Methodology
 
 > *"Statisticians first, no ML hoax — every output verifiable."*
