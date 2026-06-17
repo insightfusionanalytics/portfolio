@@ -53,6 +53,7 @@ Quantitative analyst and actuary with around six years building and, just as imp
 
 - **[`ifa-rag-pipeline`](https://github.com/insightfusionanalytics/ifa-rag-pipeline)** — Retrieval-augmented generation over Indian equity markets (NSE/BSE) with FinBERT sentiment scoring, FastAPI, and a vector store
 - **[`ifa-arbitrage`](https://github.com/insightfusionanalytics/ifa-arbitrage)** — Cross-platform prediction-market arbitrage engine (Polymarket × Kalshi), an 8-stage agent pipeline with vig removal and CLV backtesting
+- **[`fifa-rae-dashboard`](https://github.com/insightfusionanalytics/fifa-rae-dashboard)** — Interactive analytics dashboard on 56,880 football players (Next.js, TypeScript) — chi-squared relative-age-effect analysis across 190 countries
 
 ## Methodology
 
